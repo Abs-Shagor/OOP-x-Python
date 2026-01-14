@@ -1,12 +1,12 @@
 ## 15 Must-Know OOP Questions
 
 ### 1. What is the programming paradigm? It’s type and example.
-⇒ Programming Paradigm is a way to structure code. There are 3 type of it
-⇒ Monolithic programming: Writing an entire program in one big module/structure. used in old web applications.
-⇒ Procedural programming: Writing code as a sequence of step-by-step instructions with functions. C, PHP
-⇒ Object Oriented Programming(OOP): modern way to code. Used in Python, Java, C++
+- Programming Paradigm is a way to structure code. There are 3 type of it
+- Monolithic programming: Writing an entire program in one big module/structure. used in old web applications.
+- Procedural programming: Writing code as a sequence of step-by-step instructions with functions. C, PHP
+- Object Oriented Programming(OOP): modern way to code. Used in Python, Java, C++
 
-2. What is OOP? Why do we use it? What are the 4-pillers of oop?
+### 2. What is OOP? Why do we use it? What are the 4-pillers of oop?
 ⇒ OOP is a way of coding using class, object and real world concepts.
 ⇒ It makes code reusable, maintainable, secure and facilitate team collaboration through well defined structure.
 ⇒ 4-pillars of OOP are Abstraction, Polymorphism, Inheritance & Encapsulation. Technique: A-PIE
