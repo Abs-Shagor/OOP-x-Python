@@ -3,8 +3,8 @@
 ### 1. What is the programming paradigm? It’s type and example.
 - Programming Paradigm is a way to structure code. There are 3 type of it
 - **Monolithic programming:** Writing an entire program in one big module/structure. used in old web applications.
-- *Procedural programming:* Writing code as a sequence of step-by-step instructions with functions. C, PHP
-- *Object Oriented Programming(OOP):* modern way to code. Used in Python, Java, C++
+- **Procedural programming:** Writing code as a sequence of step-by-step instructions with functions. C, PHP
+- **Object Oriented Programming(OOP):** modern way to code. Used in Python, Java, C++
 
 ### 2. What is OOP? Why do we use it? What are the 4-pillers of oop?
 - OOP is a way of coding using class, object and real world concepts.
@@ -14,7 +14,7 @@
 ### 3. What is class, object and Singleton class?
 - class is the blueprint or template for creating objects.
 - Object is the instance of class. We can create objects with different name from the same class.
-- Singleton Class: A class designed to allow only one object to ever exist.
+- **Singleton Class:** A class designed to allow only one object to ever exist.
 ### 4. What is the method? Difference between method(function) overriding and overloading?
 - The function which is written inside the class is called a method.
 - When a child class implements a method which is already defined in its parent class it is called method overriding.
@@ -29,27 +29,26 @@
 
 ### 6. What is Inheritance? Explain the type of Inheritance.
 - Inheritance is a technique which allows a child class to use the properties and methods of its parent class.
-- Single Inheritance: The child class inherits only one parent.
-- Multiple Inheritance:The child class inherits multiple parents.
-- Multilevel Inheritance: A child inherits from a parent, which itself inherits from another parent.
-- Hierarchical Inheritance: Multiple children inherit from one parent.
-- Hybrid Inheritance: Combination of two or more types of inheritance.
+- **Single Inheritance:** The child class inherits only one parent.
+- **Multiple Inheritance:** The child class inherits multiple parents.
+- **Multilevel Inheritance:** A child inherits from a parent, which itself inherits from another parent.
+- **Hierarchical Inheritance:** Multiple children inherit from one parent.
+- **Hybrid Inheritance:** Combination of two or more types of inheritance.
 
 
 ### 7. What is Polymorphism? Explain its type.
 - The word Polymorphism means "many forms" and it refers to the ability of methods/functions with the same name that can be executed on many forms. For example: the len function of python is also a polymorphic function as we know that through the  len function we can find the length of different datatypes like: size of  list, string, set etc.
 
 There are 2 type of polymorphism:
-- Run-time polymorphism: method overriding is a runtime polymorphism.
-- Compile-time polymorphism: method overloading is a compile-time polymorphism.
+- **Run-time polymorphism:** method overriding is a runtime polymorphism.
+- **Compile-time polymorphism:** method overloading is a compile-time polymorphism.
 
-- Compile-time: The time when the code is translated into machine language by the compiler.
-- Run-time: When the code is running. 
+- **Compile-time:** The time when the code is translated into machine language by the compiler.
+- **Run-time:** When the code is running. 
 - When we write code and execute it. The compiler translates it into machine language first then the code runs. For this reason, those codes which are executed in compile-time are fast or executed first. Then the run-time code.
 
 
-### 8. What is Abstraction? Abstract class? Abstract method? Can an abstract class have a constructor? Can we instantiate abstract class? What is the super() keyword used for?
-Difference between Abstract class and interface.
+### 8. What is Abstraction? Abstract class? Abstract method? Can an abstract class have a constructor? Can we instantiate abstract class? What is the super() keyword used for? Difference between Abstract class and interface.
 - Abstraction hides implementation details and shows only what is needed.  
 - An Abstract method is a function which is empty or not implemented yet. 
 - An Abstract class is a class which has at least one abstract method. The abstract class forces  all of its child classes to implement this empty method.If the child class implements the abstract method they can use the properties and methods of the abstract class.
@@ -62,17 +61,17 @@ Difference between Abstract class and interface.
 
 ### 9. What is Encapsulation? Type? What access modifiers commonly used in encapsulation.
 - Before we learn  Encapsulation, We should know one thing and that is
-			“Nothing is Strictly Private in Python”
-In fact, the private value in encapsulation is also accessible by the help of some technique. 🙂
+			**“Nothing is Strictly Private in Python 🙂”**
+.In fact, the private value in encapsulation is also accessible by the help of some technique.
 
 Encapsulation is a technique to prevent misuse and restrict direct access of data from outside by using public, protected and private modes.
-- public ⇒ The properties and methods are Accessible anywhere.
-- Protected ⇒ Accessible within class and subclasses. Defined by _single underscore.
-- private ⇒ Accessible only within class. Defined by __double underscore.  
+- **public ⇒** The properties and methods are Accessible anywhere.
+- **Protected ⇒** Accessible within class and subclasses. Defined by _single underscore.
+- **private ⇒** Accessible only within class. Defined by __double underscore.  
 
 Two common access modifiers method are:
-- Getter: Method to read private/protected data
-- Setter: Method to modify private/protected data safely
+- **Getter:** Method to read private/protected data
+- **Setter:** Method to modify private/protected data safely
 
 ### 10. Two major differences between Abstraction and Encapsulation.
 Abstraction
