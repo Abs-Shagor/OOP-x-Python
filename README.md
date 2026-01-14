@@ -8,7 +8,7 @@
 
 ### 2. What is OOP? Why do we use it? What are the 4-pillers of oop?
 `==>` OOP is a way of coding using class, object and real world concepts.
-⇒ It makes code reusable, maintainable, secure and facilitate team collaboration through well defined structure.
+**Arrow:** `==>` It makes code reusable, maintainable, secure and facilitate team collaboration through well defined structure.
 ⇒ 4-pillars of OOP are Abstraction, Polymorphism, Inheritance & Encapsulation. Technique: A-PIE
 
 3. What is class, object and Singleton class?
