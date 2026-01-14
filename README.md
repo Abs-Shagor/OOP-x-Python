@@ -7,7 +7,7 @@
 - Object Oriented Programming(OOP): modern way to code. Used in Python, Java, C++
 
 ### 2. What is OOP? Why do we use it? What are the 4-pillers of oop?
-⇒ OOP is a way of coding using class, object and real world concepts.
+`==>` OOP is a way of coding using class, object and real world concepts.
 ⇒ It makes code reusable, maintainable, secure and facilitate team collaboration through well defined structure.
 ⇒ 4-pillars of OOP are Abstraction, Polymorphism, Inheritance & Encapsulation. Technique: A-PIE
 
