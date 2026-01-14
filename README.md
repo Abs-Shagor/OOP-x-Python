@@ -2,7 +2,7 @@
 
 ### 1. What is the programming paradigm? It’s type and example.
 - Programming Paradigm is a way to structure code. There are 3 type of it
-- Monolithic programming: Writing an entire program in one big module/structure. used in old web applications.
+- <u>Monolithic programming:</u> Writing an entire program in one big module/structure. used in old web applications.
 - Procedural programming: Writing code as a sequence of step-by-step instructions with functions. C, PHP
 - Object Oriented Programming(OOP): modern way to code. Used in Python, Java, C++
 
